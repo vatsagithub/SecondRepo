@@ -14,3 +14,5 @@ exec usp_validateloginWrapper
 @Login= @login OUTPUT
 
 select @PkeyWebsterLoginLogId, @Login
+
+-- By Vatsa
