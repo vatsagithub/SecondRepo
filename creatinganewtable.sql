@@ -10,3 +10,4 @@ from <table_name>
  --URL
  --https://www.c-sharpcorner.com/article/insert-into-select-vs-select-into-in-sql-server/
  -- By: Vatsa
+ -- Modifications 292022
